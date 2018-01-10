@@ -1,0 +1,23 @@
+.auto_tab_content{
+    padding:25px 35px 22px 35px;
+    background-color: rgba(255, 255, 255, .9);
+    min-height: 205px;
+    position: absolute;
+    left: 60%;
+    top: 30%
+
+}
+.auto_tab_content_r{
+    background-color: rgba(255, 255, 255, .9);
+    padding:25px 35px 22px 35px;
+    left: 20%;
+    top:10%;
+    position: relative;
+    height: auto;
+    height: 200px;
+    min-height: 200px;
+    width: auto;
+    width: 350px;
+    min-width: 200px;
+
+}
